@@ -6,3 +6,5 @@
 02_cnns/data/MNIST/raw/train-images-idx3-ubyte.gz
 02_cnns/data/MNIST/raw/train-labels-idx1-ubyte
 02_cnns/data/MNIST/raw/train-labels-idx1-ubyte.gz
+.venv/
+data/
